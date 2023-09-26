@@ -2,6 +2,9 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="/home/surajmalwankarm/Downloads/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"/>
+=======
+>>>>>>> 339061fb7f7129d06e18f2304651611ba4d00bc9
 	<classpathentry kind="output" path="bin"/>
 </classpath>
